@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">И я изучаю аналитку данных.</h3>
 
-
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="32"/>
 <!---
 sorrero/sorrero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
