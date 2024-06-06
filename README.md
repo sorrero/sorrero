@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-Всем привет!
+Всем привет, я Владимир из Москвы RU!
 </h1>
-<h3 align="center">Меня зовут Владимир! И я изучаю аналитку данных.</h3>
+<h3 align="center">И я изучаю аналитку данных.</h3>
 
 
 <!---
