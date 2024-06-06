@@ -7,12 +7,12 @@
 <img src="https://img.shields.io/badge/jupyter-white?style=for-the-badge&logo=jupyter" height="32"/>
 <img src="https://img.shields.io/badge/clickhouse-white?style=for-the-badge&logo=clickhouse" height="32"/>
 <img src="https://img.shields.io/badge/scipy-white?style=for-the-badge&logo=scipy" height="32"/>
-<img src="https://img.shields.io/badge/sql-white?style=for-the-badge&logo=sql" height="32"/>
-<img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python" height="32"/>
-<img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python" height="32"/>
-<img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python" height="32"/>
-<img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python" height="32"/>
-<img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python" height="32"/>
+<img src="https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql" height="32"/>
+<img src="https://img.shields.io/badge/gitlub-white?style=for-the-badge&logo=gitlub" height="32"/>
+<img src="https://img.shields.io/badge/redash-white?style=for-the-badge&logo=redash" height="32"/>
+<img src="https://img.shields.io/badge/tableau-white?style=for-the-badge&logo=tableau" height="32"/>
+<img src="https://img.shields.io/badge/html-white?style=for-the-badge&logo=html" height="32"/>
+<img src="https://img.shields.io/badge/css-white?style=for-the-badge&logo=css" height="32"/>
 <img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python" height="32"/>
 
 <!---
