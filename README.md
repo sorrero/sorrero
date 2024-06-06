@@ -12,8 +12,7 @@
 <img src="https://img.shields.io/badge/gitlub-white?style=for-the-badge&logo=gitlub" height="32"/>
 <img src="https://img.shields.io/badge/redash-white?style=for-the-badge&logo=redash" height="32"/>
 <img src="https://img.shields.io/badge/tableau-white?style=for-the-badge&logo=tableau" height="32"/>
-<img src="https://img.shields.io/badge/html-white?logo=html&logoColor=blue&style=for-the-badge" height="32"/>
-<img src="https://img.shields.io/badge/css-white?logo=css&logoColor=blue&style=for-the-badge" height="32"/>
+
 
 <img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python" height="32"/>
 
