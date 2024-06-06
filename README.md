@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/jupyter-white?style=for-the-badge&logo=jupyter" height="32"/>
 <img src="https://img.shields.io/badge/clickhouse-white?style=for-the-badge&logo=clickhouse" height="32"/>
 <img src="https://img.shields.io/badge/scipy-white?style=for-the-badge&logo=scipy" height="32"/>
-<img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python" height="32"/>
+<img src="https://img.shields.io/badge/sql-white?style=for-the-badge&logo=sql" height="32"/>
 <img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python" height="32"/>
 <img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python" height="32"/>
 <img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python" height="32"/>
