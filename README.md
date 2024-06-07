@@ -39,8 +39,8 @@
 <tbody>
 
   <tr>
-<td><a href="https://github.com/sorrero/e-com">Анализ покупателей</a></td>
-<td>Анализ поведения пользователей, работы доставки товаров.<br> 
+<td><a href="https://github.com/sorrero/e-com">Анализ покупателей e-com организации</a></td>
+<td>Анализ поведения пользователей, работы с доставкой товаров.<br> 
   Когортный анализ пользователей, RFM-анализ</td>
 <td>Pandas<br>Numpy<br>Seaborn</td>
 </tr>
