@@ -1,8 +1,11 @@
+<img src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif?cid=790b7611p9mmh928uhnn162ehqxlzy4outjw592dgps3u0mg&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+
 <h1 align="center"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 Всем привет, я Владимир!
 </h1>
 <h3 align="center">И я изучаю аналитку данных.</h3>
 
+<h2>Languages and tools</h2>
 <img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python" height="32"/><img src="https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=blue&style=for-the-badge" height="32"/><img src="https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=blue&style=for-the-badge" height="32"/>
 <img src="https://img.shields.io/badge/plotly-white?logo=plotly&logoColor=blue&style=for-the-badge" height="32"/>
 <img src="https://img.shields.io/badge/jupyter-white?style=for-the-badge&logo=jupyter" height="32"/>
