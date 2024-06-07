@@ -6,9 +6,8 @@
 <div id="badges" align="center">
 <a href="https://t.me/sorrero" rel="nofollow">  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" /> </a>
 </div>
-
-<div align="center">И я изучаю аналитику данных.</div>
 <hr>
+<h3 align="center">Изучаю аналитику данных.</h3>
 <h3 class="heading-element" dir="auto">🛠️ Languages and tools</h3>
 <div id="badges">
   <img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python" height="32"/>
@@ -26,52 +25,42 @@
 <img src="https://img.shields.io/badge/gitlab-white?style=for-the-badge&logo=gitlab" height="32"/>
 </div>
 <hr>
-Таблица
+<h3 class="heading-element" dir="auto">📖 Мои проекты:</h3>
 <table>
   
 <thead>
 <tr>
-<th>Название проекта</th>
-<th>Описание проекта</th>
+<th>Название</th>
+<th>Описание</th>
 <th>Стек</th>
 </tr>
 </thead>
   
 <tbody>
-<tr>
-<td><a href="https://github.com/sorrero">Анализ мобильной игры</a></td>
-<td>Выбор, расчет продуктовых метрик (Conversion Rate, ARPPU и др.). Проверка гипотез, анализ результатов А/B-теста (тест на независимость Хи-квадрат, T-test, Bootstrap).
-Формирование когорт по дате регистрации в приложении, проведение А/B теста и bootstrap для определения значимости изменений в ARPU и ARPPU, формирование группы метрик при изменении механики приложения.</td>
-<td><strong>Pandas</strong> <strong>Numpy</strong> Pandas Numpy Scipy Tdqm Seaborn Requests pandas,numpy,seaborn, matplotlib,scipy,requests</td>
+
+  <tr>
+<td><a href="https://github.com/sorrero/e-com">Анализ покупателей</a></td>
+<td>Анализ поведения пользователей, работы доставки товаров.<br> 
+  Когортный анализ пользователей, RFM-анализ</td>
+<td>Pandas<br>Numpy<br>Seaborn</td>
+</tr>
+
+
+  <tr>
+<td><a href="https://github.com/sorrero/mobile_game">Анализ мобильной игры</a></td>
+<td>Формирование когорт, расчет Retention.<br>
+  Выбор и расчет продуктовых метрик (конверсия, ARPPU и др.). <br>
+  Проверка гипотез, анализ результатов А/B-теста (Хи-квадрат, T-test, Bootstrap).
+ </td>
+<td>Pandas<br>Numpy<br> Scipy<br>Seaborn<br>Requests</td>
 </tr>
   
-<tr>
-<td><a href="https://github.com/sorrero">Название</a></td>
-<td>Описание</td>
-<td><strong>Pandas</strong> <strong>Numpy</strong></td>
-</tr>
-
-<tr>
-<td><a href="https://github.com/sorrero">Название</a></td>
-<td>Описание</td>
-<td><strong>Pandas</strong> <strong>Numpy</strong></td>
-</tr>
-
-<tr>
-<td><a href="https://github.com/sorrero">Название</a></td>
-<td>Описание</td>
-<td><strong>Pandas</strong> <strong>Numpy</strong></td>
-</tr>
-
-
 </tbody>
 </table>
 
 
 
 
-Репозитории
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sorrero&repo=название)](https://github.com/sorrero/название)
 
 <!---Для компактной версии-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sorrero&layout=compact)](https://github.com/sorrero/github-readme-stats)
