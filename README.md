@@ -47,7 +47,7 @@
 
 
   <tr>
-<td><a href="https://github.com/sorrero/mobile_game">Анализ мобильной игры</a></td>
+<td><a href="https://github.com/sorrero/mobile_game">Анализ пользователей мобильной игры</a></td>
 <td>Формирование когорт, расчет Retention.<br>
   Выбор и расчет продуктовых метрик (конверсия, ARPPU и др.). <br>
   Проверка гипотез, анализ результатов А/B-теста (Хи-квадрат, T-test, Bootstrap).
