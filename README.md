@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif?cid=790b7611p9mmh928uhnn162ehqxlzy4outjw592dgps3u0mg&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+<img src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif"/>
 
 <h1 align="center"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 Всем привет, я Владимир!
