@@ -21,6 +21,13 @@
 <img src="https://img.shields.io/badge/tableau-white?style=for-the-badge&logo=tableau" height="32"/>
 <img src="https://img.shields.io/badge/gitlab-white?logo=gitlab&logoColor=blue&style=for-the-badge" height="32"/>
 </div>
+
+Репозитории
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sorrero&repo=название)](https://github.com/sorrero/название)
+
+<!---Для компактной версии-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sorrero&layout=compact)](https://github.com/sorrero/github-readme-stats)
+
 <!---
 sorrero/sorrero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
