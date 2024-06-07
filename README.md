@@ -22,6 +22,49 @@
 <img src="https://img.shields.io/badge/gitlab-white?logo=gitlab&logoColor=blue&style=for-the-badge" height="32"/>
 </div>
 
+Таблица
+<table>
+  
+<thead>
+<tr>
+<th>Название проекта</th>
+<th>Описание проекта</th>
+<th>Стек</th>
+</tr>
+</thead>
+  
+<tbody>
+<tr>
+<td><a href="https://github.com/sorrero">Название</a></td>
+<td>Описание</td>
+<td><strong>Pandas</strong> <strong>Numpy</strong></td>
+</tr>
+  
+<tr>
+<td><a href="https://github.com/sorrero">Название</a></td>
+<td>Описание</td>
+<td><strong>Pandas</strong> <strong>Numpy</strong></td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/sorrero">Название</a></td>
+<td>Описание</td>
+<td><strong>Pandas</strong> <strong>Numpy</strong></td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/sorrero">Название</a></td>
+<td>Описание</td>
+<td><strong>Pandas</strong> <strong>Numpy</strong></td>
+</tr>
+
+
+</tbody>
+</table>
+
+
+
+
 Репозитории
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sorrero&repo=название)](https://github.com/sorrero/название)
 
