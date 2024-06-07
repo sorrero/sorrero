@@ -1,12 +1,17 @@
-<h1 align="center"><img src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" height="100" /></h1>
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <h1 align="center"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 Всем привет, я Владимир!
 </h1>
-<h3 align="center">И я изучаю аналитку данных.</h3>
+<div id="badges" align="center">
+<a href="https://t.me/sorrero" rel="nofollow">  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" /> </a>
+</div>
+<h3 align="center">И я изучаю аналитику данных.</h3>
 
 <h3>Languages and tools</h2>
-<img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python" height="32"/><img src="https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=blue&style=for-the-badge" height="32"/><img src="https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=blue&style=for-the-badge" height="32"/>
+<div id="badges"><img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python" height="32"/><img src="https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=blue&style=for-the-badge" height="32"/><img src="https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=blue&style=for-the-badge" height="32"/>
 <img src="https://img.shields.io/badge/plotly-white?logo=plotly&logoColor=blue&style=for-the-badge" height="32"/>
 <img src="https://img.shields.io/badge/jupyter-white?style=for-the-badge&logo=jupyter" height="32"/>
 <img src="https://img.shields.io/badge/clickhouse-white?style=for-the-badge&logo=clickhouse" height="32"/>
@@ -16,9 +21,8 @@
 <img src="https://img.shields.io/badge/redash-white?style=for-the-badge&logo=redash" height="32"/>
 <img src="https://img.shields.io/badge/tableau-white?style=for-the-badge&logo=tableau" height="32"/>
 <img src="https://img.shields.io/badge/gitlab-white?logo=gitlab&logoColor=blue&style=for-the-badge" height="32"/>
-
 <img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python" height="32"/>
-
+</div>
 <!---
 sorrero/sorrero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
