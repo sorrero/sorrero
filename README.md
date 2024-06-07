@@ -1,7 +1,6 @@
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+<div id="header" align="center"><img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=790b7611p9mmh928uhnn162ehqxlzy4outjw592dgps3u0mg&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200"/></div>
+
 <h1 align="center"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 Всем привет, я Владимир!
 </h1>
@@ -21,7 +20,6 @@
 <img src="https://img.shields.io/badge/redash-white?style=for-the-badge&logo=redash" height="32"/>
 <img src="https://img.shields.io/badge/tableau-white?style=for-the-badge&logo=tableau" height="32"/>
 <img src="https://img.shields.io/badge/gitlab-white?logo=gitlab&logoColor=blue&style=for-the-badge" height="32"/>
-<img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python" height="32"/>
 </div>
 <!---
 sorrero/sorrero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
