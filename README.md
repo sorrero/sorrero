@@ -73,8 +73,12 @@
 
 
 <!---Для компактной версии-->
+<!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sorrero&layout=compact)](https://github.com/sorrero/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sorrero&theme=solarized_dark)
+-->
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 <!---
 sorrero/sorrero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
