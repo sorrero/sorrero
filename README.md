@@ -1,5 +1,5 @@
 
-<div id="header" align="center"><img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=790b7611p9mmh928uhnn162ehqxlzy4outjw592dgps3u0mg&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200"/></div>
+<div id="header" align="center"><img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=790b7611p9mmh928uhnn162ehqxlzy4outjw592dgps3u0mg&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="150px"/></div>
 <h1 align="center"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 Всем привет, я Владимир, аналитик данных!
 </h1>
