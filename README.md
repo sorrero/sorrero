@@ -7,12 +7,15 @@
 <a href="https://t.me/sorrero" rel="nofollow">  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" /> </a>
 </div>
 <hr>
-
+<p>Обладаю математическим и аналитическим мышлением, мне интересно находить закономерности, искать причины, взаимосвязи, оценивать перспективы, предлагать решения и анализ данных дает мне возможность заниматься любимым делом.
+А профессионально развиваться в направлении анализа помогает мое стремление к новым знаниям и исследовательский подход.</p>
+<!---
 <p><img src="https://img.icons8.com/?size=100&id=uNzoeGXjLfRM&format=png&color=228BE6" height="16"/ / > Люблю, чтобы во всем была структура, упорядоченность, организация.</p>
 <p><img src="https://img.icons8.com/?size=100&id=uNzoeGXjLfRM&format=png&color=228BE6" height="16"/ / > Мне интересно находить закономерности, искать причины, взаимосвязи, оценивать перспективы, предлагать решения.</p>
 <p><img src="https://img.icons8.com/?size=100&id=uNzoeGXjLfRM&format=png&color=228BE6" height="16"/ / > Параллельно прохожу курсы на степике по SQL, Python, статистике.</p>
 <p><img src="https://img.icons8.com/?size=100&id=uNzoeGXjLfRM&format=png&color=228BE6" height="16"/ / > Тяга ко всему новому и знаниям</p>
 <p><img src="https://img.icons8.com/?size=100&id=uNzoeGXjLfRM&format=png&color=228BE6" height="16"/ / > В планах - дальнейший рост и прокачка навыков в анализе данных.</p>
+--->
 <hr>
 
 
