@@ -1,13 +1,13 @@
 
-<div id="header" align="center"><img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=790b7611p9mmh928uhnn162ehqxlzy4outjw592dgps3u0mg&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300"/></div>
+<div id="header" align="center"><img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=790b7611p9mmh928uhnn162ehqxlzy4outjw592dgps3u0mg&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200"/></div>
 <h1 align="center"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-Всем привет, я Владимир!
+Всем привет, я Владимир, аналитик данных!
 </h1>
 <div id="badges" align="center">
 <a href="https://t.me/sorrero" rel="nofollow">  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" /> </a>
 </div>
 <hr>
-<h3 align="center">Изучаю аналитику данных.</h3>
+
 <p><img src="https://img.icons8.com/?size=100&id=uNzoeGXjLfRM&format=png&color=228BE6" height="16"/ / > Люблю, чтобы во всем была структура, упорядоченность, организация.</p>
 <p><img src="https://img.icons8.com/?size=100&id=uNzoeGXjLfRM&format=png&color=228BE6" height="16"/ / > Мне интересно находить закономерности, искать причины, взаимосвязи, оценивать перспективы, предлагать решения.</p>
 <p><img src="https://img.icons8.com/?size=100&id=uNzoeGXjLfRM&format=png&color=228BE6" height="16"/ / > Параллельно прохожу курсы на степике по SQL, Python, статистике.</p>
